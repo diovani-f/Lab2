@@ -1,0 +1,1 @@
+Todas as funções e especificações pedidas foram implementadas no trabalho.
